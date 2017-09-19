@@ -1,0 +1,53 @@
+/*
+img {
+  position:relative;
+  top:50%;
+  max-height:100%;
+  display:block;
+  left:50%;
+  -webkit-transform: translate(-50%, -50%);
+  max-width:100%;
+}*/
+
+.size13{
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+}
+
+.size23{
+  height: 350px ;
+  width: 350px;
+  overflow: hidden;
+}
+
+.size31{
+  height: 400px;
+  width: 400px;
+  overflow: hidden;
+}
+
+
+
+
+
+
+.size11{
+  height: 100px;
+  width: 100px;
+}
+
+.size12{
+  height: 150px;
+  width: 150px;
+}
+
+.size21{
+  height: 250px;
+  width: 250px;
+}
+
+.size22{
+  height: 300px;
+  width: 300px;
+}
